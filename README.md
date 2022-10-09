@@ -1,5 +1,4 @@
-## <Your-Project-Title>
-
+## Horiseon Refactor Pfitroject
 ## Description
 
 The purpose of this project is to refactor the existing HTML and the corresponding CSS style sheet. 
@@ -28,4 +27,4 @@ N/A
 
 ## How to Contribute
 
-N?A
+N/A
