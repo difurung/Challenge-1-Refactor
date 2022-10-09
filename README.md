@@ -1,24 +1,43 @@
-## Horiseon Refactor Pfitroject
+## Horiseon Refactor Project
+The Horiseon Refactor Project's purpose is as a marketing agency to make sure the underlying code is optimized. Furthermore accesabiliry improvements should be made in order to keep up with industry standards thereby optimizing the wehsite for search optimization.
+
 ## Description
 
-The purpose of this project is to refactor the existing HTML and the corresponding CSS style sheet. 
+The majority of the refactoring in the code included Three major changes: 
+- The addition of altternative descriptions of the existing images.
+- The addition of semantic elements in the HTML replacing the less descriptive ones.
+- The consolidation of any redundancies found in the CSS stylesheets. 
 
-## Installation
+These changes among other minor fixes shouls aid in search engiine optimixation overall. 
 
-N/A
 
 ## Usage
 
+The projest can be accessed at Github Pages Github:
+
+https://difurung.github.io/Challenge-1-Refactor/
+
+https://github.com/difurung/Challenge-1-Refactor
 
 ![alt text](assets/images/screenshot.png)
 
 ## Credits
 
-N/A
+https://github.com/beattycharles
+https://github.com/EvolanGIT
+https://github.com/BogartDME
 
 ## License
 
-MIT license
+Copyright <2022> <Denart Ifurung>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
 
 
 ## Features
