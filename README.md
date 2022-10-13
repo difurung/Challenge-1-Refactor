@@ -14,21 +14,25 @@ These changes among other minor fixes should aid in search engiine optimization 
 
 ## Usage
 
-The projest can be accessed at Github Pages Github:
+The project can be accessed at the following:
 
+Github Pages:
 https://difurung.github.io/Challenge-1-Refactor/
 
+Github: 
 https://github.com/difurung/Challenge-1-Refactor
 
 
 
 ## Credits
 
-https://github.com/beattycharles
+Charles Beatty: https://github.com/beattycharles
 
-https://github.com/EvolanGIT
+Jon Bermudez: https://github.com/EvolanGIT
 
-https://github.com/BogartDME
+Edwin Pietrowski: https://github.com/BogartDME
+
+Melany Pietrowski: https://github.com/Melpie10
 
 ## License
 
