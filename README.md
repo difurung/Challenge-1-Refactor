@@ -2,14 +2,14 @@
 
 ## Description
 
-The Horiseon Refactor Project's purpose is to refactor the existing code. Furthermore, accesabiliry improvements should be made in order to keep up with industry standards thereby improving the wehsite for search optimization.
+The Horiseon Refactor Project's purpose is to refactor the existing code. Furthermore, accesabiliry improvements were made in order to keep up with industry standards thereby improving the website for search optimization.
 
 The majority of the refactoring included three major changes: 
 - The addition of alternative descriptions of the existing images, increasing accessability.
 - The addition of semantic elements in the HTML, improving specificity to the overall code.
 - The consolidation of any redundancies found in the CSS stylesheets. 
 
-These changes among other minor fixes should aid in search engiine optimization overall. 
+These changes among other minor fixes should aid in search engine optimization overall. 
 
 
 ## Usage
